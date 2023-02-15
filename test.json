@@ -1,5 +1,5 @@
 
 {"Success":true,"GamesIDs":[
-    "292439477",
-    "11606818992"
+    {"PlaceID":"292439477","Status":"WORKING"},
+    {"PlaceID":"11606818992","Status":"PATCHED"}
 ]}
